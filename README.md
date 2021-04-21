@@ -18,6 +18,7 @@ Using the Airbnb data for Boston to try and create a model that will predict the
 ## Interacting With Project
 There shouldn't be anything particularly complicated. If using pycharm, you can simply run the project from main. Using notbook, just run the cells in order
 
-## License
+## Licensing, Authors, Acknowledgements
 [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 Data provided by Airbnb and Kaggle - [Boston](https://www.kaggle.com/airbnb/boston), [Seattle](https://www.kaggle.com/airbnb/seattle)
+Medium article based on my findings [here](https://parshad-anil.medium.com/airbnb-what-sells-ac328d7c2801)
