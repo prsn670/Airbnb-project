@@ -20,5 +20,5 @@ There shouldn't be anything particularly complicated. If using pycharm, you can 
 
 ## Licensing, Authors, Acknowledgements
 [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html)
-Data provided by Airbnb and Kaggle - [Boston](https://www.kaggle.com/airbnb/boston), [Seattle](https://www.kaggle.com/airbnb/seattle)
+Data provided by Airbnb and Kaggle - [Boston](https://www.kaggle.com/airbnb/boston), [Seattle](https://www.kaggle.com/airbnb/seattle). 
 Medium article based on my findings [here](https://parshad-anil.medium.com/airbnb-what-sells-ac328d7c2801)
