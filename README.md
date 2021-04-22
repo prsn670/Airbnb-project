@@ -18,7 +18,11 @@ Using the Airbnb data for Boston to try and create a model that will predict the
 ## Interacting With Project
 There shouldn't be anything particularly complicated. If using pycharm, you can simply run the project from main. Using notbook, just run the cells in order
 
+## Findings
+With the current model we were able to reach an R2 score of about .70. Looking at at how the R2 changed when we removed singular features seemed to suggest that bedroom number and bathroom number had the greatest effect on the score. As such, the number of bedroom and bathroom combination for each listing. It seems, by a large margin, that a one bedroom/bathroom combination is the most sought after when compared to the other combinations.
+
 ## Licensing, Authors, Acknowledgements
-[GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html)
-Data provided by Airbnb and Kaggle - [Boston](https://www.kaggle.com/airbnb/boston), [Seattle](https://www.kaggle.com/airbnb/seattle). 
-Medium article based on my findings [here](https://parshad-anil.medium.com/airbnb-what-sells-ac328d7c2801)
+[GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html)  
+Data provided by Airbnb and Kaggle - [Boston](https://www.kaggle.com/airbnb/boston), [Seattle](https://www.kaggle.com/airbnb/seattle).   
+Medium article based on my findings [here](https://parshad-anil.medium.com/airbnb-what-sells-ac328d7c2801)  
+The link to this repository is [https://github.com/prsn670/Airbnb-project](https://github.com/prsn670/Airbnb-project)
