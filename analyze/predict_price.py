@@ -6,7 +6,7 @@ from plot.delta_bar_chart import plot_bar_chart
 
 # after including all features, these features seemed to significantly impact the regression model negatively.
 # float_price was included in the list only because this is what we model will be predicting
-drop_col = ['host_neighbourhood', 'host_has_profile_pic', 'property_type', 'requires_license', 'instant_bookable',
+drop_col = ['host_has_profile_pic', 'property_type', 'requires_license', 'instant_bookable',
             'float_price']
 
 

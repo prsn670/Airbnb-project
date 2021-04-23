@@ -32,7 +32,8 @@ def drop_data(df):
                         'market', 'smart_location', 'country_code', 'country', 'latitude', 'longitude',
                         'is_location_exact', 'calendar_updated', 'calendar_last_scraped',
                         'first_review', 'last_review', 'jurisdiction_names', 'weekly_price',
-                        'monthly_price', 'has_availability', 'license', 'square_feet', 'neighbourhood', 'host_location']
+                        'monthly_price', 'has_availability', 'license', 'square_feet', 'neighbourhood', 'host_location',
+                        'host_neighbourhood']
     # drop unneeded columns
     for column in unneeded_columns:
         try:
